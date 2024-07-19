@@ -3,9 +3,23 @@
 
 The Babysitter app connects parents with babysitters, facilitating the management of babysitting events sourced from the Kinderkit app. Both applications run on the same server and share the same database, ensuring seamless integration and data consistency.
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Configuration](#configuration)
+5. [Usage](#usage)
+6. [API Integration](#api-integration)
+7. [Permissions](#permissions)
+8. [Screenshots](#screenshots)
+9. [Video Demonstration](#video-demonstration)
+
 ## Introduction
 
 The Babysitter app is designed to help parents find and manage babysitters. It integrates with the Kinderkit app to pull babysitting events created by parents. The app uses Firebase for authentication and real-time data storage, and Google Maps for location services.
+
+#### The application is being integrated to the server FamilyCare360 : (https://github.com/YardenCherry/FamilyCare360.git)
+
 
 ## Features
 
@@ -19,7 +33,7 @@ The Babysitter app is designed to help parents find and manage babysitters. It i
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/YardenCherry/Babysitter-MiniApp.git)
+   git clone https://github.com/YardenCherry/Babysitter-MiniApp.git
    ```
 2. Open the project in Android Studio.
 3. Ensure you have the necessary SDKs and dependencies installed.
